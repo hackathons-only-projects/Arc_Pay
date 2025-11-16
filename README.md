@@ -10,8 +10,8 @@
 
 ## 🚀 Live Demo & Video Walkthrough
 
--   **View Live Demo:** [**arcpay-demo.vercel.app**](YOUR_VERCEL_LINK_HERE)
--   **Watch the Video Walkthrough:** [**Loom Video Link**](YOUR_LOOM_LINK_HERE)
+-   **View Live Demo:** [**arcpay-nine.vercel.app**](https://arcpay-nine.vercel.app/)
+-   **Watch the Video Walkthrough:** [**Loom Video Link**](https://www.loom.com/share/b068eaaaaea446af9b2b3ecd962786b3)
 
 ---
 
@@ -72,7 +72,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/arcpay.git
+    git clone https://github.com/hackathons-only-projects/Arc_Pay.git
     cd arcpay
     ```
 
